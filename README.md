@@ -103,7 +103,7 @@ hugo new posts/first_post.md
 ### Launching the Website Locally
 
 ```bash
-hugo serve
+hugo serve --disableFastRender
 ```
 
 ### Build the Website
