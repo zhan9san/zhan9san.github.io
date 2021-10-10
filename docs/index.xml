@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>张三的喃喃自语</title>
+        <title>张三说</title>
         <link>https://zhan9san.github.io/</link>
-        <description>张三的喃喃自语</description>
+        <description>张三说</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Aug 2021 13:51:02 &#43;0800</lastBuildDate>
             <atom:link href="https://zhan9san.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>

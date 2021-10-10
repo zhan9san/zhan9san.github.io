@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - 标签 - 张三的喃喃自语</title>
+        <title>Tags - 标签 - 张三说</title>
         <link>https://zhan9san.github.io/tags/</link>
-        <description>Tags - 标签 - 张三的喃喃自语</description>
+        <description>Tags - 标签 - 张三说</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://zhan9san.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
