@@ -97,7 +97,27 @@ theme = "LoveIt"
 [params]
   # LoveIt 主题版本
   version = "0.2.X"
-
+  # 文章页面配置
+  [params.page]
+    # 评论系统设置
+    [params.page.comment]
+      enable = true
+      # Valine 评论系统设置
+      [params.page.comment.valine]
+        enable = true
+        appId = "RSO4cUk5NJ6UDgY94fRmwv5C-MdYXbMMI"
+        appKey = "tCk0Eo9fRhcUwfprNMNkTa1w"
+        placeholder = ""
+        avatar = "mp"
+        meta= ""
+        pageSize = 10
+        lang = ""
+        visitor = true
+        recordIP = true
+        highlight = true
+        enableQQ = false
+        serverURLs = ""
+        emoji = ""
 [menu]
   [[menu.main]]
     identifier = "posts"
