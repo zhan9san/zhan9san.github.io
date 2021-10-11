@@ -1,31 +1,3 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>张三说</title>
-        <link>https://zhan9san.github.io/</link>
-        <description>张三说</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 10 Oct 2021 16:04:55 &#43;0800</lastBuildDate>
-            <atom:link href="https://zhan9san.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Jenkins插件版本管理</title>
-    <link>https://zhan9san.github.io/posts/jenkins%E6%8F%92%E4%BB%B6%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</link>
-    <pubDate>Sun, 10 Oct 2021 16:04:55 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://zhan9san.github.io/posts/jenkins%E6%8F%92%E4%BB%B6%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</guid>
-    <description><![CDATA[基本方法 控制变量法 二分法 查找信息源头，Read The Fucking Source Code(时间成本高，需结合谷歌大法） 问题现象 Jenkins Kubernetes plugin不工作，不断创建新POD，]]></description>
-</item><item>
-    <title>代码和代数</title>
-    <link>https://zhan9san.github.io/posts/%E4%BB%A3%E7%A0%81%E5%92%8C%E4%BB%A3%E6%95%B0/</link>
-    <pubDate>Sun, 10 Oct 2021 15:49:37 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://zhan9san.github.io/posts/%E4%BB%A3%E7%A0%81%E5%92%8C%E4%BB%A3%E6%95%B0/</guid>
-    <description><![CDATA[和祁同学聊天发现了一个有意思的联系 代数：用字母代替数字 代码：用字母代替机器码 代，就是代替的意思，很形象的一个用法]]></description>
-</item><item>
-    <title>First_post</title>
-    <link>https://zhan9san.github.io/posts/first_post/</link>
-    <pubDate>Thu, 05 Aug 2021 13:51:02 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://zhan9san.github.io/posts/first_post/</guid>
-    <description><![CDATA[h1
-h2 h3 h3]]></description>
-</item></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>张三说</title><link>https://zhan9san.github.io/</link><description>张三说</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 10 Oct 2021 16:04:55 +0800</lastBuildDate><atom:link href="https://zhan9san.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Jenkins插件版本管理</title><link>https://zhan9san.github.io/posts/jenkins%E6%8F%92%E4%BB%B6%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</link><pubDate>Sun, 10 Oct 2021 16:04:55 +0800</pubDate><author>作者</author><guid>https://zhan9san.github.io/posts/jenkins%E6%8F%92%E4%BB%B6%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</guid><description>基本方法 控制变量法 二分法 查找信息源头，Read The Fucking Source Code(时间成本高，需结合谷歌大法） 问题现象 Jenkins Kubernetes plugin不工作，不断创建新POD，</description></item><item><title>代码和代数</title><link>https://zhan9san.github.io/posts/%E4%BB%A3%E7%A0%81%E5%92%8C%E4%BB%A3%E6%95%B0/</link><pubDate>Sun, 10 Oct 2021 15:49:37 +0800</pubDate><author>作者</author><guid>https://zhan9san.github.io/posts/%E4%BB%A3%E7%A0%81%E5%92%8C%E4%BB%A3%E6%95%B0/</guid><description>和祁同学聊天发现了一个有意思的联系 代数：用字母代替数字 代码：用字母代替机器码 代，就是代替的意思，很形象的一个用法</description></item><item><title>First_post</title><link>https://zhan9san.github.io/posts/first_post/</link><pubDate>Thu, 05 Aug 2021 13:51:02 +0800</pubDate><author>作者</author><guid>https://zhan9san.github.io/posts/first_post/</guid><description>h1
+h2 h3 h3
+test action</description></item></channel></rss>
